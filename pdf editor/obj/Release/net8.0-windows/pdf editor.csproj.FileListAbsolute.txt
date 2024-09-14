@@ -1,0 +1,73 @@
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\pdf editor.exe
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\pdf editor.deps.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\pdf editor.runtimeconfig.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\pdf editor.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\pdf editor.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.System.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\PdfSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.csproj.AssemblyReference.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor_MarkupCompile.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor_MarkupCompile.lref
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.g.resources
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.AssemblyInfoInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.AssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.csproj.Up2Date
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\refint\pdf editor.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor.genruntimeconfig.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\ref\pdf editor.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\tessdata\eng.traineddata
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Tesseract.Data.English.targets
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\x86\tesseract50.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\x64\tesseract50.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Aspose.PDF.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\ExCSS.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Pkcs11Interop.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\SautinSoft.PdfFocus.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\ShimSkiaSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\SkiaSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Spire.Pdf.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Svg.Custom.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Svg.Model.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Svg.Skia.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\Tesseract.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Release\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Release\net8.0-windows\pdf editor_Content.g.cs

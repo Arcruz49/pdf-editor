@@ -1,0 +1,70 @@
+﻿<Window x:Class="pdf_editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdf_editor"
+        mc:Ignorable="d"
+        Title="PDF Editor v0.1.1" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <TabControl HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <TabItem Header="Editar PDF">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="51*"/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="336*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Anexar PDF" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" Click="BtnAnexarPdf_Click" Grid.Column="3" Margin="226,0,0,0"/>
+                    <Label x:Name="lblArquivoSelecionado" Content="Nenhum arquivo selecionado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,218,0,0" Width="800" Grid.ColumnSpan="4"/>
+                    <Label x:Name="lblPaginasRemover" Content="Selecione as páginas para remover" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,44,0,0" Width="800" Grid.ColumnSpan="4"/>
+                    <Button Content="Remover páginas" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="226,291,0,0" Click="BtnRemoverPaginas_Click" Grid.Column="3"/>
+                    <Button x:Name="btnDownloadPdf"
+                            Content="Download PDF novo"
+                            Width="142"
+                            Height="30"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Margin="204,340,0,0"
+                            Click="BtnDownloadPdf_Click"
+                            Visibility="Hidden"
+                            Grid.Column="3"/>
+                    <TextBox x:Name="inputPaginas" 
+                             Margin="158,92,272,272"
+                             FontSize="12"  
+                             HorizontalScrollBarVisibility="Auto"
+                             TextWrapping="NoWrap" Grid.Column="3"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Converter PDF">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="73*"/>
+                        <RowDefinition Height="333*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="18*"/>
+                        <ColumnDefinition Width="749*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Anexar PDF" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BtnAnexarPdf_Click" Margin="302,57,0,0" Grid.Column="3" Grid.RowSpan="2"/>
+                    <Label x:Name="lblArquivoSelecionadoConversao" Content="Nenhum arquivo selecionado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="224,9,0,0" Width="256" RenderTransformOrigin="0.498,0.504" Grid.Column="3" Grid.Row="1" Height="26"/>
+                    <Label x:Name="text" Content="Converter Para" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="224,63,0,0" Width="256" RenderTransformOrigin="0.498,0.504" Grid.Column="3" Grid.Row="1" Height="26"/>
+
+                    <ComboBox x:Name="cbFormatos" Width="150" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="277,94,0,0" Grid.Column="3" Grid.Row="1">
+                        <ComboBoxItem Content="..." IsSelected="True" Tag="0"/>
+                        <ComboBoxItem Content="Word (.docx)" Tag="1"/>
+                        <!--<ComboBoxItem Content="PDF para Powerpoint" Tag="2"/>
+                        <ComboBoxItem Content="PDF para Texto" Tag="3"/>-->
+                    </ComboBox>
+                    <Button Content="Converter" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" Click="BtnConversao_Click" Grid.Column="3" Grid.Row="1" Margin="302,0,0,0" />
+                    <Button x:Name="btnDownloadPdfConvertido" Content="Dowload" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BtnDownloadPdfConvertido_Click" Grid.Column="3" Grid.Row="1" Margin="302,209,0,0" Visibility="Hidden"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
