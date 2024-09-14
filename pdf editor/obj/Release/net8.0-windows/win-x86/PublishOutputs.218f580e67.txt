@@ -1,0 +1,41 @@
+C:\Publish\pdf editor\pdf editor.exe
+C:\Publish\pdf editor\tessdata\eng.traineddata
+C:\Publish\pdf editor\Tesseract.Data.English.targets
+C:\Publish\pdf editor\x86\leptonica-1.82.0.dll
+C:\Publish\pdf editor\x86\tesseract50.dll
+C:\Publish\pdf editor\x64\leptonica-1.82.0.dll
+C:\Publish\pdf editor\x64\tesseract50.dll
+C:\Publish\pdf editor\pdf editor.dll
+C:\Publish\pdf editor\pdf editor.deps.json
+C:\Publish\pdf editor\pdf editor.runtimeconfig.json
+C:\Publish\pdf editor\pdf editor.pdb
+C:\Publish\pdf editor\ExCSS.dll
+C:\Publish\pdf editor\HarfBuzzSharp.dll
+C:\Publish\pdf editor\Microsoft.Extensions.DependencyInjection.dll
+C:\Publish\pdf editor\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Publish\pdf editor\Microsoft.Extensions.Logging.dll
+C:\Publish\pdf editor\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Publish\pdf editor\Microsoft.Extensions.Options.dll
+C:\Publish\pdf editor\Microsoft.Extensions.Primitives.dll
+C:\Publish\pdf editor\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Publish\pdf editor\PdfSharp.Charting.dll
+C:\Publish\pdf editor\PdfSharp.Quality.dll
+C:\Publish\pdf editor\PdfSharp.Snippets.dll
+C:\Publish\pdf editor\PdfSharp.System.dll
+C:\Publish\pdf editor\PdfSharp.WPFonts.dll
+C:\Publish\pdf editor\PdfSharp.dll
+C:\Publish\pdf editor\Pkcs11Interop.dll
+C:\Publish\pdf editor\BouncyCastle.Crypto.dll
+C:\Publish\pdf editor\SautinSoft.PdfFocus.dll
+C:\Publish\pdf editor\ShimSkiaSharp.dll
+C:\Publish\pdf editor\SkiaSharp.dll
+C:\Publish\pdf editor\SkiaSharp.HarfBuzz.dll
+C:\Publish\pdf editor\Svg.Custom.dll
+C:\Publish\pdf editor\Svg.Model.dll
+C:\Publish\pdf editor\Svg.Skia.dll
+C:\Publish\pdf editor\System.Xml.XPath.XmlDocument.dll
+C:\Publish\pdf editor\Tesseract.dll
+C:\Publish\pdf editor\de\PdfSharp.Charting.resources.dll
+C:\Publish\pdf editor\de\PdfSharp.resources.dll
+C:\Publish\pdf editor\libHarfBuzzSharp.dll
+C:\Publish\pdf editor\libSkiaSharp.dll

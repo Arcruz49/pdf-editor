@@ -16,9 +16,9 @@
                         <ColumnDefinition Width="10*"/>
                         <ColumnDefinition Width="336*"/>
                     </Grid.ColumnDefinitions>
-                    <Button Content="Anexar PDF" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center" Click="BtnAnexarPdf_Click" Grid.Column="3" Margin="226,0,0,0"/>
-                    <Label x:Name="lblArquivoSelecionado" Content="Nenhum arquivo selecionado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,218,0,0" Width="800" Grid.ColumnSpan="4"/>
-                    <Label x:Name="lblPaginasRemover" Content="Selecione as páginas para remover" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,44,0,0" Width="800" Grid.ColumnSpan="4"/>
+                    <Button Content="Anexar PDF" Width="100" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BtnAnexarPdf_Click" Margin="225,65,0,0" Grid.Column="3"/>
+                    <Label x:Name="lblArquivoSelecionado" Content="Nenhum arquivo selecionado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,90,0,0" Width="800" Grid.ColumnSpan="4"/>
+                    <Label x:Name="lblPaginasRemover" Content="Selecione as páginas para remover" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-6,149,0,0" Width="800" Grid.ColumnSpan="4"/>
                     <Button Content="Remover páginas" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="226,291,0,0" Click="BtnRemoverPaginas_Click" Grid.Column="3"/>
                     <Button x:Name="btnDownloadPdf"
                             Content="Download PDF novo"
@@ -31,7 +31,7 @@
                             Visibility="Hidden"
                             Grid.Column="3"/>
                     <TextBox x:Name="inputPaginas" 
-                             Margin="158,92,272,272"
+                             Margin="154,182,276,182"
                              FontSize="12"  
                              HorizontalScrollBarVisibility="Auto"
                              TextWrapping="NoWrap" Grid.Column="3"/>

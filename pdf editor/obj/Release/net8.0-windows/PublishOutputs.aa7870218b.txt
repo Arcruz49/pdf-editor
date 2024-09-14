@@ -1,0 +1,55 @@
+C:\Publish\pdf editor.exe
+C:\Publish\tessdata\eng.traineddata
+C:\Publish\Tesseract.Data.English.targets
+C:\Publish\x86\leptonica-1.82.0.dll
+C:\Publish\x86\tesseract50.dll
+C:\Publish\x64\leptonica-1.82.0.dll
+C:\Publish\x64\tesseract50.dll
+C:\Publish\pdf editor.dll
+C:\Publish\pdf editor.deps.json
+C:\Publish\pdf editor.runtimeconfig.json
+C:\Publish\pdf editor.pdb
+C:\Publish\Aspose.PDF.dll
+C:\Publish\ExCSS.dll
+C:\Publish\HarfBuzzSharp.dll
+C:\Publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Publish\Microsoft.Extensions.DependencyModel.dll
+C:\Publish\Microsoft.Extensions.Logging.dll
+C:\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Publish\Microsoft.Extensions.Options.dll
+C:\Publish\Microsoft.Extensions.Primitives.dll
+C:\Publish\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Publish\Newtonsoft.Json.dll
+C:\Publish\PdfSharp.Charting.dll
+C:\Publish\PdfSharp.Quality.dll
+C:\Publish\PdfSharp.Snippets.dll
+C:\Publish\PdfSharp.System.dll
+C:\Publish\PdfSharp.WPFonts.dll
+C:\Publish\PdfSharp.dll
+C:\Publish\Pkcs11Interop.dll
+C:\Publish\BouncyCastle.Crypto.dll
+C:\Publish\SautinSoft.PdfFocus.dll
+C:\Publish\ShimSkiaSharp.dll
+C:\Publish\SkiaSharp.dll
+C:\Publish\SkiaSharp.HarfBuzz.dll
+C:\Publish\Spire.Pdf.dll
+C:\Publish\Svg.Custom.dll
+C:\Publish\Svg.Model.dll
+C:\Publish\Svg.Skia.dll
+C:\Publish\System.Xml.XPath.XmlDocument.dll
+C:\Publish\Tesseract.dll
+C:\Publish\de\PdfSharp.Charting.resources.dll
+C:\Publish\de\PdfSharp.resources.dll
+C:\Publish\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Publish\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Publish\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Publish\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Publish\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Publish\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Publish\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Publish\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Publish\runtimes\osx\native\libSkiaSharp.dylib
+C:\Publish\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Publish\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Publish\runtimes\win-x86\native\libSkiaSharp.dll

@@ -49,17 +49,9 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Aspose.PDF": {
-              "target": "Package",
-              "version": "[24.9.0, )"
-            },
             "PDFsharp": {
               "target": "Package",
               "version": "[6.1.1, )"
-            },
-            "Spire.PDF": {
-              "target": "Package",
-              "version": "[10.9.0, )"
             },
             "sautinsoft.pdffocus": {
               "target": "Package",

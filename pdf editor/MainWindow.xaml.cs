@@ -5,7 +5,6 @@ using System.Windows;
 using pdf_editor.classes;
 using System.Windows.Controls;
 using System.Text.RegularExpressions;
-using Aspose.Pdf;
 using System.IO;
 using SautinSoft;
 

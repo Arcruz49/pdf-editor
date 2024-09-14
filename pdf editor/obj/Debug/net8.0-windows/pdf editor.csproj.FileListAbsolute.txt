@@ -34,10 +34,6 @@ C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Debug\net8.0-windows\pdf editor.csproj.AssemblyReference.cache
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Debug\net8.0-windows\pdf editor.csproj.Up2Date
-C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\Spire.Pdf.dll
-C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\Aspose.PDF.dll
-C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\tessdata\eng.traineddata
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\Tesseract.Data.English.targets
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
@@ -71,3 +67,4 @@ C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Debug\net8.0-windows\pdf editor_Content.g.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\pdf editor\pdf editor\obj\Debug\net8.0-windows\pdf editor.sourcelink.json
